@@ -9,10 +9,12 @@
 
 ## 简单的值
 1.使用let来定义一个常量
-2.使用var来定义一个变量
 ```swift
 var myVariable = 42
 myVariable = 50
+```
+2.使用var来定义一个变量
+```swift
 let myConstant = 42
 ```
 
