@@ -8,14 +8,14 @@
 6. 错误处理允许从意外故障中进行受控恢复
 
 ## 简单的值
-1.使用let来定义一个常量
+1. 使用let来定义一个常量
+```swift
+let myConstant = 42
+```
+2. 使用var来定义一个变量
 ```swift
 var myVariable = 42
 myVariable = 50
-```
-2.使用var来定义一个变量
-```swift
-let myConstant = 42
 ```
 
 3. 常量和变量必须复制给他相应的类型，但是你没必要在声明时显示指出类型
